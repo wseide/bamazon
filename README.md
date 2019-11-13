@@ -16,5 +16,11 @@ After you have the downloads of the npm packages installed on your computer, you
 
 Example:
 
+![Welcome](welcome.PNG)
+
+![Inventory](inventory.PNG)
+
+![Purchase](purchase.PNG)
+
 
 
